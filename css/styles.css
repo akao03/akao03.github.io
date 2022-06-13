@@ -14,10 +14,6 @@
     margin: 0;
 }
 
-.navbar li {
-    display: inline;
-}
-
 .navbar li a {
     color: white;
     text-decoration: none;
