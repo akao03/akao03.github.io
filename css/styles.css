@@ -26,11 +26,6 @@
     float: left;
 }
 
-.navbar li a:active {
-    background-color: darkslateblue;
-    color: white;
-}
-
 .nav-right {
     float: right;
 }
@@ -38,6 +33,11 @@
 .nav-right li a:hover {
     background-color: midnightblue;
     color: gold;
+}
+
+.nav-right li a:active {
+    background-color: darkslateblue;
+    color: white;
 }
 
 .icon {
@@ -48,6 +48,15 @@
     margin-left: 5px;
 }
 
+.imglinks a {
+    height: 40px;
+    width: 40px;
+}
+
 p {
     font: 16px Verdana;
+}
+
+h2 {
+    font: 24px Verdana;
 }
