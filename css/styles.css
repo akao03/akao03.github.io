@@ -7,7 +7,17 @@
     width: 100%;
 }
 
-.navbar a {
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar li a {
     color: white;
     text-decoration: none;
     padding: 14px;
@@ -15,12 +25,12 @@
     font-size: 20px;
 }
 
-.navbar a:hover {
+.navbar li a:hover {
     background-color: midnightblue;
     color: gold;
 }
 
-.navbar a.active {
+.navbar li a.active {
     background-color: darkslateblue;
     color: white;
 }
