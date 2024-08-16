@@ -50,23 +50,23 @@
 
 p {
     font: 16px Verdana;
-    margin-left: 50px;
-    margin-right: 50px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
 
 h2 {
     font: 24px Verdana;
-    margin-left: 50px;
-    margin-right: 50px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
 
 ul {
     font: 14px Verdana;
-    margin-left: 50px;
-    margin-right: 50px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
 
 img {
-    margin-left: 50px;
-    margin-right: 50px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
