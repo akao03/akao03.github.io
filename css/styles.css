@@ -13,7 +13,7 @@ body {
     top: 0;
     background-color: midnightblue;
     height: 50px;
-    width: 100%;
+    width: 100vw;
     margin-left: 0;
     margin-right: 0;
 }
