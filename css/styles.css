@@ -1,3 +1,9 @@
+body {
+    width: 80%;
+    margin: 10%;
+    padding: 0;
+}
+
 .navbar {
     display: block;
     position: sticky;
@@ -50,38 +56,12 @@
 
 p {
     font: 16px Verdana;
-    padding-left: 75px;
-    padding-right: 75px;
 }
 
 h2 {
     font: 24px Verdana;
-    padding-left: 75px;
-    padding-right: 75px;
 }
 
 ul {
     font: 14px Verdana;
-    padding-left: 75px;
-    padding-right: 75px;
-}
-
-li {
-    padding-left: 75px;
-    padding-right: 75px;
-}
-
-img {
-    padding-left: 75px;
-    padding-right: 75px;
-}
-
-#kurusu-icon {
-    padding-left: 0px;
-    padding-right: 0px;
-}
-
-#header-name {
-    padding-left: 0px;
-    padding-right: 0px;
 }
