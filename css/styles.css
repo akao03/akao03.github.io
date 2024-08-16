@@ -66,7 +66,22 @@ ul {
     padding-right: 75px;
 }
 
+li {
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
 img {
     padding-left: 75px;
     padding-right: 75px;
+}
+
+#kurusu-icon {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#header-name {
+    padding-left: 0px;
+    padding-right: 0px;
 }
