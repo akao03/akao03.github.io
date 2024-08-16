@@ -50,19 +50,23 @@
 
 p {
     font: 16px Verdana;
-    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 h2 {
     font: 24px Verdana;
-    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 ul {
     font: 14px Verdana;
-    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 img {
-    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
 }
